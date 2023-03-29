@@ -1,0 +1,12 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-heading {
+  color: #ffffff;
+}
+
+.list-item {
+  list-style-type: none;
+}
